@@ -24,6 +24,4 @@ Facebook usa sistemas de cache para acelerar o acesso aos dados dos usuários. T
 ### Analogia
 Imagine um serviço de consulta a uma base de dados que realiza operações custosas. Vamos criar um proxy que armazena em cache os resultados dessas consultas para melhorar o desempenho.
 
-## Hashtags
 
-#DesignPatterns #SoftwareEngineering #DeveloperLife #Programming #TechInsights #CodeOptimization #TechTalk
